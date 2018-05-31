@@ -1,0 +1,13 @@
+C:\Users\Angel\source\repos\UdeCDB\UdeCDB\bin\Debug\UdeCDB.exe.config
+C:\Users\Angel\source\repos\UdeCDB\UdeCDB\bin\Debug\UdeCDB.exe
+C:\Users\Angel\source\repos\UdeCDB\UdeCDB\bin\Debug\UdeCDB.pdb
+C:\Users\Angel\source\repos\UdeCDB\UdeCDB\obj\Debug\UdeCDB.csprojAssemblyReference.cache
+C:\Users\Angel\source\repos\UdeCDB\UdeCDB\obj\Debug\UdeCDB.Properties.Resources.resources
+C:\Users\Angel\source\repos\UdeCDB\UdeCDB\obj\Debug\UdeCDB.csproj.GenerateResource.cache
+C:\Users\Angel\source\repos\UdeCDB\UdeCDB\obj\Debug\UdeCDB.csproj.CoreCompileInputs.cache
+C:\Users\Angel\source\repos\UdeCDB\UdeCDB\obj\Debug\UdeCDB.exe
+C:\Users\Angel\source\repos\UdeCDB\UdeCDB\obj\Debug\UdeCDB.pdb
+C:\Users\Angel\source\repos\UdeCDB\UdeCDB\obj\Debug\UdeCDB.mainForm.resources
+C:\Users\Angel\source\repos\UdeCDB\UdeCDB\obj\Debug\UdeCDB.menuForm.resources
+C:\Users\Angel\source\repos\UdeCDB\UdeCDB\bin\Debug\MaterialSkin.dll
+C:\Users\Angel\source\repos\UdeCDB\UdeCDB\obj\Debug\UdeCDB.csproj.CopyComplete
